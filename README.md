@@ -90,10 +90,16 @@
 - 
 █𓅓𝙒𝞖𝞘𝙕_𝙆-𝙏𝙀𝙔 𓅓█│
 ✅ Bot features 👇👇👇
+
 ✅Keeps your account online (can be turned on and off)
+
 ✅Auto views status updates 24/7( can be turned on and off)
+
 ✅Auto reacts to incoming messages (can be turned on and off)
+
 ✅Auto reads messages(can be turned on and off)
+
+
 ✅ChatGpt feature ***AND MANY MORE***
 
 - *Use Cling-Md at your own risk by keeping this warning in mind.*
