@@ -5,7 +5,7 @@
 
 # CLING-MD
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Red&center=true&width=910&height=100&lines=CLING-MD;ADVANCED+WHATSAPP+BOT;CREATED+BY+WHIZ;HOPE+YOU+ENJOY;...;TEAM WHIZ." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Red&center=true&width=910&height=100&lines=CLING-MD;ADVANCED+WHATSAPP+BOT;CREATED+BY+WHIZ;HOPE+YOU+ENJOY💞;...;TEAM WHIZ." alt="Typing SVG" /></a>
   </p>
   <br>
    
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://chat.whatsapp.com/L1DzziySDqdLWibrD2R1J7">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/ff39a6b7ae524bc77d18f.jpg">
+    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/2c9cf65c9c7bb3a76a2e1.png">
   </a>
 </p>
   
