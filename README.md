@@ -9,7 +9,7 @@
   </p>
   <br>
    
-
+---
 
 </br>
 
@@ -30,8 +30,9 @@
 
 <br>
 
-<a href="https://prabath--md-official.vercel.app/"><img src="https://img.shields.io/badge/Our%20Official%20Website-blue" alt="🌐 Our Official Website" width="300"></a>
+<a href="https://cling--md-official.vercel.app/"><img src="https://img.shields.io/badge/Our%20Official%20Website-red" alt="🌐 Our Official Website" width="300"></a>
 
+---
 
 <br>
 <br>
@@ -41,10 +42,10 @@
 <br>
 <br>
 
-<a href="https://cling-md-pair.up.railway.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://cling-md-pair.up.railway.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-yellow" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 ---
-<a href="https://cling-md-qr-web.vercel.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
+<a href="https://cling-md-qr-web.vercel.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-pink" alt="LOGIN WITH QR CODE" width="250"></a>
 <br>
 
 # **[`Pair-code and Qr code not working?  Click here`](https://qr-pair-error-cling-md.vercel.app/)**
@@ -56,4 +57,4 @@
 <br>
 ---
 
-[![FORK CLING-MD](https://img.shields.io/badge/FORK%20-cling%20MD-white)](https://github.com/whizmburu/cling-md/fork)
+[![FORK CLING-MD](https://img.shields.io/badge/FORK%20-cling%20MD-purple)](https://github.com/whizmburu/cling-md/fork)
