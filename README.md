@@ -76,34 +76,26 @@
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/scan) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
-2. ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI).***
-3. ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fwhizmburu%2FCling-Md)***
-4. ***Deploy on [`Replit`](https://replit.com/github/whizmburu/Cling-Md)***
 
-
-##
----                          <p align="center">https://heroku.com/deploy?template=</p>
-
-
-- Star ⭐ repo if you like this bot.
-
-
-
-<h2 align="center">  NOTICE
-</h2>
+4. ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fwhizmburu%2FCling-Md)***
    
-## 
-- *Cling-Md is not made by `WhatsApp Inc.
+6. ***Deploy on [`Replit`](https://replit.com/github/whizmburu/Cling-Md)***
+
+
+
+
+
+
+
 - 
-- █𓅓𝙒𝞖𝞘𝙕_𝙆-𝙏𝙀𝙔 𓅓█│
-- ✅ Bot features 👇👇👇
-- ✅Keeps your account online (can be turned on and off)
-- ✅Auto views status updates 24/7( can be turned on and off)
-- ✅Auto reacts to incoming messages (can be turned on and off)
-- ✅Auto reads messages(can be turned on and off)
-- ✅ChatGpt feature ***AND MANY MORE***
-- ` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
+█𓅓𝙒𝞖𝞘𝙕_𝙆-𝙏𝙀𝙔 𓅓█│
+✅ Bot features 👇👇👇
+✅Keeps your account online (can be turned on and off)
+✅Auto views status updates 24/7( can be turned on and off)
+✅Auto reacts to incoming messages (can be turned on and off)
+✅Auto reads messages(can be turned on and off)
+✅ChatGpt feature ***AND MANY MORE***
+
 - *Use Cling-Md at your own risk by keeping this warning in mind.*
 
 - 
