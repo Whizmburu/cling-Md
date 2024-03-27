@@ -3,6 +3,9 @@ build:
       worker: /lib/Dockerfile
 run:
   worker: npm start
+               - name: Setup Java JDK
+                uses: actions/setup-java@v4.2.1
+            
  
 
   
