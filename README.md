@@ -42,10 +42,10 @@
 <br>
 <br>
 
-<a href="https://cling-md-pair.up.railway.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-yellow" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://cling-md-scan-4abeb68a8b7e.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-yellow" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 ---
-<a href="https://cling-md-qr-web.vercel.app/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-pink" alt="LOGIN WITH QR CODE" width="250"></a>
+<a href="https://cling-md-qr-web.vercel.app/"><img src="https://cling-md-scan-4abeb68a8b7e.herokuapp.com/-pink" alt="LOGIN WITH QR CODE" width="250"></a>
 <br>
 
 # **[`Pair-code and Qr code not working?  Click here`](https://qr-pair-error-cling-md.vercel.app/)**
