@@ -73,22 +73,27 @@
    
 ## Deployment Methods
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/scan) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
+***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/scan) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
 
-4. ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fwhizmburu%2FCling-Md)***
+***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fwhizmburu%2FCling-Md)***
    
-6. ***Deploy on [`Replit`](https://replit.com/github/whizmburu/Cling-Md)***
+***Deploy on [`Replit`](https://replit.com/github/whizmburu/Cling-Md)***
 
 
 
 
-
+# CLING-MD
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Red&center=true&width=910&height=100&lines=CLING-MD;ADVANCED+WHATSAPP+BOT;CREATED+BY+WHIZ;HOPE+YOU+ENJOY;...;TEAM WHIZ." alt="Typing SVG" /></a>
+  </p>
+  <br>
 
 
 - 
 █𓅓𝙒𝞖𝞘𝙕_𝙆-𝙏𝙀𝙔 𓅓█│
+
 ✅ Bot features 👇👇👇
 
 ✅Keeps your account online (can be turned on and off)
