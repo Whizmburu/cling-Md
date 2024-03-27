@@ -45,7 +45,7 @@
 <a href="https://cling-md.onrender.com/code"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-yellow" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 ---
-<a href="https://cling-md.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-pink" alt="LOGIN WITH QR CODE" width="250"></a>
+<a href="https://cling-md.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-pink" alt="LOGIN WITH QR CODE" width="250"></a>
 <br>
 
 # **[`Pair-code and Qr code not working?  Click here`](https://qr-pair-error-cling-md.vercel.app/)**
